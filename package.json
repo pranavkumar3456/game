@@ -3,6 +3,20 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Serpent's Journey - A Snake-like game with AI features powered by Gemini API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranav05kumar/game.git"
+  },
+  "keywords": [
+    "react",
+    "game",
+    "snake",
+    "gemini-api",
+    "ai"
+  ],
+  "author": "pranav05kumar",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
